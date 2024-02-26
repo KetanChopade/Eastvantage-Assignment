@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Assignment Description:
+Create a React application that fetches and displays user information from the randomuser.me API. The application should utilize functional components, hooks such as useState, useEffect, and useCallback for managing state and side effects, and a routing library such as react-router-dom for navigation.
+
+Instructions:
+1. Clone this repository to your local machine.
+2. Install dependencies using npm
+3. Start the development server.
+4. Access the application in your web browser.
+5. Follow the provided README.md for detailed installation and usage instructions.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
